@@ -1,6 +1,7 @@
 # Routing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+The project code is the outcome from Angular 17 tutorials from UDEMY, lecturer Maximilian Schwarzmüller. The course name at this date (10 July 2024) is: "Angular - The Complete Guide (2024 Edition)".
 
 ## Development server
 
